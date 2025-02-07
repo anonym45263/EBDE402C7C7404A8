@@ -18,7 +18,6 @@ This repository contains the code, data and technical report for submission "Fir
    - The executable is in the form of "Dataset-x" where Dataset is either Brightkite or gowalla, and x is a number indicating the type of query:
        - 1: Static quantum range query
        - 2: Dynamic quantum range query
-       - 3: Multi-dimensional quantum range query
   
 6. Download the datasets into src/:
    - https://snap.stanford.edu/data/loc-brightkite_totalCheckins.txt.gz
