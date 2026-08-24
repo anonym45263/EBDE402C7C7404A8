@@ -1,0 +1,61 @@
+# macOS
+.DS_Store
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# CMake / build
+build/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+cmake_install.cmake
+compile_commands.json
+CTestTestfile.cmake
+Makefile
+install_manifest.txt
+_deps/
+
+# Compiled objects / libraries / binaries
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+*.app
+
+# Project executables (built in-tree)
+Brightkite-aug
+Brightkite-v-N
+Brightkite-v-k
+Brightkite-v-B
+Brightkite-dyn-v-N
+IMDb-process
+IMDb_search-v-N
+IMDb_search-v-k
+IMDb_maximum-v-N
+IMDb_maximum-v-k
+TPCH_join1
+TPCH_join2
+TPCH_join1_rand
+TPCH_join2_rand
+
+# Local experiment outputs / datasets (not for upload)
+plot/
+*.txt
+*.tbl
+*.tsv
+*.dat
+*.sta
+*.eps
+*.pdf
+!FirstTreeLikeQuantumDataStructureQuantumB+Tree-TechnicalReport.pdf
